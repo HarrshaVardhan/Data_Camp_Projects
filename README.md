@@ -1,4 +1,5 @@
-# Data_Camp_Projects
-The projects done while working on Data Camp.
+# Data Camp
 
-The projects were done on SQL 
+# Programming With Mosh
+
+# Tried of Depth with in SQL/PSQL
