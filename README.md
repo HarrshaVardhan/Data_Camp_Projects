@@ -1,5 +1,5 @@
-# Data Camp
+- Data Camp
 
-# Programming With Mosh
+- Programming With Mosh
 
-# Tried of Depth with in SQL/PSQL
+- Tried of Depth with in SQL/PSQL
